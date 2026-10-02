@@ -18,7 +18,7 @@
 - 🔐 Web Application Penetration Testing & Bug Bounty basics
 - 🌐 Networking (CCNA / Network+ self-study)
 - 🐍 Python, C, C++, PHP, HTML, Bash
-- 🐧 Kali Linux & Nmap
+- 🐧 Linux 
 - 🤖 Exploring AI-assisted development with Claude Code
 
 ### 🏆 Where I practice
